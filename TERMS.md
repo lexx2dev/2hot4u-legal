@@ -8,4 +8,4 @@ By adding or using 2hot4u you agree to these terms.
 4. **Abuse:** servers or users that abuse the bot (spam, attempts to disrupt the service) may be blocked.
 5. **Premium:** premium features, where offered, are tied to a server and may be changed or withdrawn.
 6. **Liability:** to the extent permitted by law, the bot owner is not liable for damages arising from use of the bot.
-7. **Contact:** reach the bot owner through the support server or the contact listed on the bot's page.
+7. **Contact:** reach the bot owner through the support server: https://discord.gg/VtArUDSBQb
