@@ -16,7 +16,7 @@ Solely to provide the bot's features. Data is not sold or shared with third part
 ## Retention and deletion
 - Room data is removed when the room is deleted.
 - When the bot is removed from a server, all of that server's data is deleted automatically.
-- To request deletion of your data, contact the bot owner through the support server or the contact listed on the bot's page.
+- To request deletion of your data, join the support server (https://discord.gg/VtArUDSBQb) and contact the bot owner.
 
 ## Changes
 This policy may be updated; the current version is always in this repository.
